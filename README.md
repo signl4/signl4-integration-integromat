@@ -7,7 +7,7 @@ Mobile alerting with tracking, duty planning and escalation for Integromat.
 
 Integromat is an advanced online automation platform. It is capable of connecting your Web apps as well as transferring and transforming your data. Pairing Integromat with SIGNL4 can enhance and automate your daily tasks with an extension to your mobile team no matter where they are.
 
-![SIGNL4](file://signl4-integromat.png)
+![SIGNL4](signl4-integromat.png)
 
 ## How it Works
 
